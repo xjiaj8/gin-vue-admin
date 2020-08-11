@@ -53,3 +53,5 @@ require (
 	gopkg.in/ini.v1 v1.55.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
+
+replace gin-vue-admin/core => C:\Users\xjj\code\go\src\xjj\gin-vue-admin\core
